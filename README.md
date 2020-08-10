@@ -74,8 +74,8 @@ The built-in function uses to display the object.
 
 ## \_\_or\_\_:
 
-\_\_or\_\_ function is carzy cool 
+\_\_or\_\_ function is a logical operatior in python which gives the result as True even if one of the conditions is satisifed
 
 ## \_\_and\_\_:
 
-\_\_and\_\_ function is also a crazy cool function 
+\_\_and\_\_ function is a logical operatior in python which gives the result as True when all the conditions is satisifed
